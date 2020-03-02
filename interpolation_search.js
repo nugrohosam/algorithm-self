@@ -1,4 +1,4 @@
-function interpoalitanSerach(arr, x) {
+function interpolationSerach(arr, x) {
     let leftIndex = 0;
     let rightIndex = arr.length - 1;
 
